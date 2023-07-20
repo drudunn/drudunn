@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on some new things for [The Woolworths Group](https://github.com/woolworthslimited/) with [Upgrowth](https://github.com/upgrowth)
+🔭 I’m currently working on the [Design System](https://personio.design) for [Personio](https://github.com/personio).
 
-🌱 I’m currently learning how to have less tabs open in my browser.  
+🌱 I’m learning how to have less tabs open in my browser.  
 Most are currently on UI testing topics, particularly for a11y.
 
 <!--
